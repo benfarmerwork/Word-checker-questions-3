@@ -1,0 +1,10 @@
+F:\Visual Studio 2015\Projects\Message Validator\Message Validator\bin\Debug\Message Validator.exe.config
+F:\Visual Studio 2015\Projects\Message Validator\Message Validator\bin\Debug\Message Validator.exe
+F:\Visual Studio 2015\Projects\Message Validator\Message Validator\bin\Debug\Message Validator.pdb
+F:\Visual Studio 2015\Projects\Message Validator\Message Validator\obj\Debug\Message Validator.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2015\Projects\Message Validator\Message Validator\obj\Debug\Message_Validator.Form1.resources
+F:\Visual Studio 2015\Projects\Message Validator\Message Validator\obj\Debug\Message_Validator.Properties.Resources.resources
+F:\Visual Studio 2015\Projects\Message Validator\Message Validator\obj\Debug\Message Validator.csproj.GenerateResource.Cache
+F:\Visual Studio 2015\Projects\Message Validator\Message Validator\obj\Debug\Message Validator.exe
+F:\Visual Studio 2015\Projects\Message Validator\Message Validator\obj\Debug\Message Validator.pdb
+F:\Visual Studio 2015\Projects\Message Validator\Message Validator\bin\Debug\words.txt
